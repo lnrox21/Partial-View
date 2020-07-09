@@ -26,6 +26,6 @@ namespace Partial_View2.Controllers
         {
             return View(Products);
         }
-        //Test
+        //Test 2
     }
 }
