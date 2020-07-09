@@ -21,7 +21,7 @@ namespace Partial_View2.Controllers
         {
             return PartialView();
         }
-
+        //Comment 2
         public ActionResult Index()
         {
             return View(Products);
